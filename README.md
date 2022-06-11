@@ -23,3 +23,6 @@ determinants can be identified which can be further used for minimising the defa
 Conducted feature engineering techniques on datetime and categorical features. 
 Conducted oversampling method to solve the problem of highly imbalanced distribution of the target variable.
 Utilized Logistic regresion, Random forest, and Xgboost classifiers to predict loan default on the test data set.
+
+## Results
+F1 score=0.41 for default samples in the validation data set. Precision and recall are 0.31 and 0.62.
